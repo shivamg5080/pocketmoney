@@ -1,1 +1,2 @@
-# pocketmoney
+# PocketMoney - Wallet Application
+ 
